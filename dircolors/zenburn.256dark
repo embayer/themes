@@ -1,5 +1,6 @@
 # Zenburn color theme for the color GNU ls utility.
-# Ivaylo Kuzev <ivkuzev@gmail.com>, 2014 - 2015
+# https://linux.die.net/man/5/dir_colors
+# https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
 
 # Term Section
 TERM Eterm
@@ -107,6 +108,7 @@ STICKY_OTHER_WRITABLE 48;5;180;38;5;234
 
 # archives
 .7z 01;38;5;174
+.7z 01;38;5;b5/e4/f4
 .arj 01;38;5;174
 .bz2 01;38;5;174
 .bz 01;38;5;174
